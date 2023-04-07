@@ -2,6 +2,8 @@ Hi, thanks for checking out my personal projects.
 
 Inspired by an impromptu trip to Vietnam and every tourist's dilemma -- route planning, I made this web application in my free time during the semester. This creation was my absolute first attempt using React, JavaScript and HTML/CSS, so please forgive the frankensteining :). 
 
+ps: replace "process.env.REACT_APP_APIKEY" in App.js with your own GoogleMaps API key.
+
 Future updates:
 1. Changing algorithm for route optimization.
 2. Cleaning up web page aesthetics.
